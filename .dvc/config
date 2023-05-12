@@ -1,0 +1,4 @@
+['remote "myremote"']
+    url = https://drive.google.com/drive/u/2/folders/1grawcYB_mjT2b-nYZ0WHHV0LRjOatJ25
+['remote "remote"']
+    url = https://drive.google.com/drive/u/2/folders/1grawcYB_mjT2b-nYZ0WHHV0LRjOatJ25
